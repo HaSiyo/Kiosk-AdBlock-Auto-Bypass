@@ -5,10 +5,7 @@
 // @description  Automatically dismisses supported AdBlock warnings on Kiosk and removes intrusive ads, lifespan indicators, and sponsor prompts while preserving password dialogs and download controls.
 // @match        https://kio.ac/*
 // @run-at       document-start
-// @grant        none
 // @noframes
-// @author       local
-// @license      MIT
 // ==/UserScript==
 
 (()=>{function W(){
